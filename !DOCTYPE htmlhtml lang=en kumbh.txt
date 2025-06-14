@@ -1,0 +1,91 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kumbh 2027 Pilgrim Help Portal</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background-color: #4a148c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #6a1b9a;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .section {
+      padding: 30px;
+      background: white;
+      margin: 20px;
+      border-radius: 10px;
+    }
+    footer {
+      background: #4a148c;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+    .btn {
+      background: #6a1b9a;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Kumbh 2027 Pilgrim Help Portal</h1>
+  <p>Your trusted guide for the Nashik Kumbh Mela – specially built for international travelers</p>
+</header><nav>
+  <a href="#guide">Pilgrim Guide</a>
+  <a href="#travel">Travel & Transport</a>
+  <a href="#food">Food & Water</a>
+  <a href="#stay">Stay Options</a>
+  <a href="#services">Verified Services</a>
+  <a href="#blog">Blog</a>
+</nav><section class="section" id="guide">
+  <h2>Pilgrim Guide</h2>
+  <p>What is Kumbh? What to expect? Do's and don'ts, rituals, dates, and local etiquette for foreigners visiting India for the first time.</p>
+  <a href="#" class="btn">Download Full Guide (PDF)</a>
+</section><section class="section" id="travel">
+  <h2>Travel & Local Transport</h2>
+  <p>Book safe rides with verified drivers. Trusted auto-rickshaw, cab, and shuttle options in Panchvati and beyond.</p>
+  <a href="#" class="btn">Book a Driver</a>
+</section><section class="section" id="food">
+  <h2>Food & Water</h2>
+  <p>Get updates on clean food stalls, free bhandaras, and safe drinking water points for pilgrims.</p>
+</section><section class="section" id="stay">
+  <h2>Stay & Accommodation</h2>
+  <p>Find hotels, homestays, and dharamshalas recommended for international travelers – sorted by location, price, and reviews.</p>
+</section><section class="section" id="services">
+  <h2>Verified Local Services</h2>
+  <p>Directory of guides, drivers, translators, and helpers – verified and available for bookings. Speak English, Hindi, and Marathi.</p>
+  <a href="#" class="btn">List Your Service</a>
+</section><section class="section" id="blog">
+  <h2>Travel Stories & Updates</h2>
+  <p>Read about real Kumbh experiences from pilgrims across the world. Tips, local hacks, spiritual spots, and more.</p>
+</section><footer>
+  <p>&copy; 2025 Sarthak Amrutkar – Kumbh Mela 2027 Portal | Built with ❤ in Nashik</p>
+</footer></body>
+</html>
