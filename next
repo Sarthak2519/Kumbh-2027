@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kumbh 2027 | Nashik Pilgrim Help</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f8f8; }
+    header { background: #6200ea; color: white; padding: 1em; text-align: center; }
+    section { padding: 2em; }
+    h2 { color: #6200ea; }
+    .section-box { background: white; padding: 1.5em; margin: 1em 0; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to KUMBH 2027 – Nashik</h1>
+    <p>Your Pilgrim Partner for Stay, Travel & Info</p>
+  </header>
+
+  <section>
+    <div class="section-box">
+      <h2>🧭 Pilgrim Guide</h2>
+      <p>Info about important ghats, rituals, security, and Kumbh dates.</p>
+    </div>
+
+    <div class="section-box">
+      <h2>🍛 Food & Water</h2>
+      <p>List of free langars, clean water stations, sattvic food stalls.</p>
+    </div>
+
+    <div class="section-box">
+      <h2>🏨 Stay & Travel</h2>
+      <p>Find registered dharamshalas, hostels, and partner taxi/rickshaw guides.</p>
+    </div>
+
+    <div class="section-box">
+      <h2>🌍 Blog / Content</h2>
+      <p>Photos, stories, maps, emergency contacts, and foreigner FAQs.</p>
+    </div>
+  </section>
+
+</body>
+</html>
